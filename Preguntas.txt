@@ -1,0 +1,64 @@
+parametros
+120 de vida
+10 preguntas
+-30 por error
++5 cada acierto sin exceder el maximo
+
+Tema: Terraia
+1. Cual es el nombre del guia que causa que deje la gorra verde?
+a) James
+b) Jack
+c) Andrew
+d) Jacob
+
+2. Cual no es una manera de conseguir mithril?
+a) Pescando
+b) Tirando oricalco en el resplandor
+c) Minandolo
+d) Extrayendo limo
+
+3. Que monstruo no aparece en la mazmorra?
+a) Esqueleto arquero
+b) Huesitos furiosos
+c) Mago siniestro
+d) Bola de pinchos
+
+4. Donde aparece el cerdidragon rosa?
+a) Tundra, bajo tierra
+b) Tundra bendita, bajo tierra
+c) Jungla, bajo tierra
+d) Tundra corrupta, superficie
+
+5. En que etapa del juego es mas veloz el esparcimiento del bioma malvado?
+a) Pre-hardmode
+b) Post-Plantera
+c) Pre-Plantera
+d) Post-Golem
+
+6. Como se consigue el Reloj lunar encantado?
+a) Pescando en la noche
+b) Pescando en un lago celestial
+c) Como recompensa de misiones de pesca
+d) Tirando al Resplandor el Reloj de sol encantado
+
+7. Que aldeano es el menos querido entre todos los demas aldeanos?
+a) Cyborg
+b) Vendedor de armas
+c) Recolector de impuestos
+d) Pescador
+
+8. Cual es la pintura mas rara de encontrar bajotierra?
+a) Noche gloriosa
+b) Guia de Picasso
+c) Gotico terrariano
+d) Wally
+
+9. Cual no es un material de las botas terrachispa?
+a) Botas de caminador de las llamas
+b) Botas del frenesi
+d) Amuleto de lava
+c) Calavera de obsidiana
+
+10. Es posible matar al duque fishron como el primer jefe (1.4.6+)?
+a) Si
+b) No
